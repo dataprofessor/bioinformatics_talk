@@ -10,7 +10,7 @@ stb.set_book_config(path="slides")
 st.markdown('''
 <style>
 div.block-container.css-12oz5g7.egzxvld2 {
-    margin-top: -7em;
+    margin-top: -5em;
 }
 </style>''', unsafe_allow_html=True)
 
