@@ -1,0 +1,4 @@
+streamlit
+streamlit-book==0.5.2
+matplotlib
+numpy
