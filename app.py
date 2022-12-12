@@ -16,8 +16,10 @@ In this talk, I share some of my thought process that I have accrued over the ye
 
 # About the Speaker
 <div style='vertical-align:left; display:inline;'>
-<img src="https://github.com/dataprofessor/bioinformatics_talk/blob/master/images/chanin.png?raw=true" width=35%> Chanin is a Senior Developer Advocate for Streamlit at Snowflake Inc. In his spare time, he creates educational content on data science, coding and bioinformatics on his YouTube channel [Data Professor](https://youtube.com/dataprofessor).
+<img src="https://github.com/dataprofessor/bioinformatics_talk/blob/master/images/chanin.png?raw=true" width=35%>
+</div>
+Chanin is a Senior Developer Advocate for Streamlit at Snowflake Inc. In his spare time, he creates educational content on data science, coding and bioinformatics on his YouTube channel [Data Professor](https://youtube.com/dataprofessor).
 
 In his previous career, he worked in academia for 15 years. His recent position was Associate Professor of Bioinformatics and the Head of the Center of Data Mining and Biomedical Informatics, Faculty of Medical Technology, Mahidol University.
-</div>
+
 ''', unsafe_allow_html=True)
