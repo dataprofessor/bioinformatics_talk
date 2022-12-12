@@ -2,4 +2,4 @@
 
 Chanin Nantasenamat, PhD
 
-**Streamlit Open Source, Snowflake Inc.**
+*Streamlit Open Source, Snowflake Inc.*
