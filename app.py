@@ -15,8 +15,9 @@ st.sidebar.markdown('''
 In this talk, I share some of my thought process that I have accrued over the years building bioinformatics tools for computational drug discovery.
 
 # About the Speaker
-
-<img src="https://github.com/dataprofessor/bioinformatics_talk/blob/master/images/chanin.png?raw=true" width=35%>
+<p>
+    <img src="https://github.com/dataprofessor/bioinformatics_talk/blob/master/images/chanin.png?raw=true" width=35%>
+</p>
 
 Chanin is a Senior Developer Advocate for Streamlit at Snowflake Inc. In his spare time, he creates educational content on data science, coding and bioinformatics on his YouTube channel [Data Professor](https://youtube.com/dataprofessor).
 
