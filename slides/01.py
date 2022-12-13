@@ -12,5 +12,5 @@ with col1:
   st.write('R User Group')
   st.write('Harvard Data Science Initiative')
 with col2:
-  st.write('Chanin Nantasenamat, PhD')
+  st.header('Chanin Nantasenamat, PhD')
   st.write('Streamlit Open Source, Snowflake Inc.')
