@@ -9,8 +9,20 @@ st.image(cover_img)
 
 col1, col2 = st.columns(2)
 with col1:
-  st.write('R User Group')
-  st.write('Harvard Data Science Initiative')
+  st.markdown('''
+  <div style="font-size:24px; color:Gray">
+        R User Group
+      </div>
+      <div style="font-size:18px; color:Gray"; vertical-align:bottom">
+        Harvard Data Science Institute
+  </div>
+  ''', unsafe_allow_html=True)
 with col2:
-  st.subheader('Chanin Nantasenamat, PhD')
-  st.write('Streamlit Open Source, Snowflake Inc.')
+  st.markdown('''
+  <div style="font-size:24px; text-align:right">
+    <b>Chanin Nantasenamat, PhD</b>
+  </div>
+  <div style="font-size:18px; color:Gray; text-align:right">
+    <i>Streamlit Open Source, Snowflake Inc.</i>
+  </div>
+  ''', unsafe_allow_html=True)
