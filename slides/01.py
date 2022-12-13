@@ -4,8 +4,8 @@ from PIL import Image
 
 st.title('Towards the Development of Bioinformatics Tools')
 
-cover_img = Image.open('https://github.com/dataprofessor/bioinformatics_talk/blob/master/images/bioinformatics-cover-image.png')
-st.image(cover_img)
+#cover_img = Image.open('https://github.com/dataprofessor/bioinformatics_talk/blob/master/images/bioinformatics-cover-image.png')
+#st.image(cover_img)
 
 col1, col2 = st.columns(2)
 with col1:
